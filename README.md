@@ -18,6 +18,8 @@
 
 ## 📋 Índice
 
+- [📝 Descrição](#-descrição)
+- [✨ Funcionalidades](#-funcionalidades)
 - [✨ Demonstração](#-demonstração)
 - [🚀 Recursos](#-recursos)
 - [🔧 Instalação](#-instalação)
@@ -30,6 +32,23 @@
 - [🔒 Segurança](#-segurança)
 - [🔮 Próximos Passos](#-próximos-passos)
 - [📄 Licença](#-licença)
+
+## 📝 Descrição
+
+O **Quiz Game com Google Gemini API** é uma aplicação web interativa que utiliza a poderosa API Gemini do Google para gerar quizzes personalizados sobre qualquer assunto escolhido pelo usuário. Este projeto demonstra a integração entre tecnologias web (PHP, JavaScript, HTML/CSS) e inteligência artificial para criar uma experiência de aprendizado dinâmica e envolvente.
+
+## ✨ Funcionalidades
+
+- 🧠 **Geração de quizzes por IA**: Utiliza o modelo Gemini da Google para criar perguntas e respostas inteligentes
+- 🌐 **Interface web responsiva**: Design moderno e adaptável a diferentes dispositivos
+- 🔄 **Dupla implementação**: Renderização do quiz tanto via PHP (servidor) quanto JavaScript (cliente)
+- 🎯 **Perguntas contextualizadas**: Cada pergunta inclui a resposta correta, alternativas plausíveis e explicação detalhada
+- ⚡ **Processamento assíncrono**: Utiliza AJAX para uma experiência de usuário fluida
+- 🛡️ **Tratamento robusto de erros**: Validação em todos os níveis da aplicação
+
+
+
+
 
 ## ✨ Demonstração
 
