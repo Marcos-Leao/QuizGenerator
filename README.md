@@ -151,7 +151,7 @@ sequenceDiagram
     Python->>Gemini: Solicita perguntas sobre o assunto
     Gemini->>Python: Retorna JSON com perguntas e respostas
     Python->>PHP: Retorna JSON processado
-    PHP->>User: Exibe quiz na interface (PHP ou JS)
+    PHP->>User: Exibe quiz na interface (JavaScript)
 ```
 
 ## 🎨 Personalização
@@ -241,7 +241,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LIC
 
 <div align="center">
   <p>
-    <i>Desenvolvido com ❤️ por [Seu Nome/Organização]</i>
+    <i>Desenvolvido com ❤️ por [Marcos Leão/Bambu Eventos]</i>
   </p>
   <p>
     <a href="https://github.com/seu-usuario">GitHub</a> •
