@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
   <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
   <br>
-  <img src="Logo-BE-ES.png" width="400" /><img src="marcosleao-132x48.png" width="260" />
+  <img src="/Logo-BE-ES.png" width="420" /><img src="/leao-marcosleao.svg" width="260" />
 </div>
 
 <p align="center">
