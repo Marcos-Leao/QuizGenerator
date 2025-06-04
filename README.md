@@ -18,7 +18,7 @@
   <i>Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!</i>
 </p>
 
-<img src="/Logo-BE-ES.png" largura="300" /><img src="/leao-marcosleao.svg" largura="300" />
+<img src="Logo-BE-ES.png" width="300" /><img src="marcosleao-132x48.png" width="100" />
 
 ## 📋 Índice
 
