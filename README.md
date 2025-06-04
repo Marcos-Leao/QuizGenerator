@@ -18,20 +18,22 @@
 
 ## 📋 Índice
 
-- [📝 Descrição](#-descrição)
-- [✨ Funcionalidades](#-funcionalidades)
-- [✨ Demonstração](#-demonstração)
-- [🚀 Recursos](#-recursos)
-- [🔧 Instalação](#-instalação)
-- [⚙️ Configuração](#️-configuração)
-- [📝 Como Usar](#-como-usar)
-- [🔄 Fluxo de Funcionamento](#-fluxo-de-funcionamento)
-- [🎨 Personalização](#-personalização)
-- [❓ Solução de Problemas](#-solução-de-problemas)
-- [⚠️ Limitações](#️-limitações)
-- [🔒 Segurança](#-segurança)
-- [🔮 Próximos Passos](#-próximos-passos)
-- [📄 Licença](#-licença)
+- [📝 Descrição](#-descrição).
+- [✨ Funcionalidades](#-funcionalidades).
+- [🙋 Segurança de conteúdo retornado] (#-Segurança de conteúdo retornado).
+- [🛠️ Tecnologias Utilizadas](#-Tecnologias Utilizadas).
+- [✨ Demonstração](#-demonstração).
+- [🚀 Recursos](#-recursos).
+- [🔧 Instalação](#-instalação).
+- [⚙️ Configuração](#️-configuração).
+- [📝 Como Usar](#-como-usar).
+- [🔄 Fluxo de Funcionamento](#-fluxo-de-funcionamento).
+- [🎨 Personalização](#-personalização).
+- [❓ Solução de Problemas](#-solução-de-problemas).
+- [⚠️ Limitações](#️-limitações).
+- [🔒 Segurança](#-segurança).
+- [🔮 Próximos Passos](#-próximos-passos).
+- [📄 Licença](#-licença).
 
 ## 📝 Descrição
 
@@ -53,6 +55,8 @@ O **Quiz Game com Google Gemini API** é uma aplicação web interativa que util
   - **Sexualmente explícito**: Contém referências a atos sexuais ou outro conteúdo sexual.
   - **Conteúdo perigoso**: Promove, facilita ou incentiva atos nocivos.
   - **Integridade cívica**: Conteúdo que pode ser usado para prejudicar a integridade cívica, con assuntos sobre eleições, políticas públicas, pessoas públicas, etc.
+
+Portanto, qualquer assunto pesquisado na página, não retornará qualquer ofença ou violação destas 5 categorias.
 
 ## 🛠️ Tecnologias Utilizadas
 
