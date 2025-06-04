@@ -19,7 +19,7 @@
 </p>
 
 
-![Logo da Minha Empresa](/Logo-BE-ES.png)
+![Logomarca da Bambu Eventos](/Logo-BE-ES.png) ![Minha Logo](/leao-marcosleao.svg) 
 ## 📋 Índice
 
 - [📝 Descrição](#-descrição).
