@@ -22,7 +22,6 @@
 - [✨ Funcionalidades](#-funcionalidades).
 - [🙋 Segurança de conteúdo retornado](#-seguranca-de-conteudo-retornado).
 - [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas).
-- [✨ Demonstração](#-demonstração).
 - [🚀 Recursos](#-recursos).
 - [🔧 Instalação](#-instalação).
 - [⚙️ Configuração](#️-configuração).
@@ -54,7 +53,7 @@ O **Quiz Game com Google Gemini API** é uma aplicação web interativa que util
   - **Assédio**: Comentários ameaçadores, intimidadores, abusivos ou violentos direcionados a outra pessoa.
   - **Sexualmente explícito**: Contém referências a atos sexuais ou outro conteúdo sexual.
   - **Conteúdo perigoso**: Promove, facilita ou incentiva atos nocivos.
-  - **Integridade cívica**: Conteúdo que pode ser usado para prejudicar a integridade cívica, con assuntos sobre eleições, políticas públicas, pessoas públicas, etc.
+  - **Integridade cívica**: Conteúdo que pode ser usado para prejudicar a integridade cívica, com assuntos sobre eleições, políticas públicas, pessoas públicas, etc.
 
 Portanto, qualquer assunto pesquisado na página, não retornará qualquer ofença ou violação destas 5 categorias.
 
