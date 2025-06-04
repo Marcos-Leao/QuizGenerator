@@ -239,7 +239,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LIC
 
 <div align="center">
   <p>
-    <i>Desenvolvido com ❤️ por [Marcos Leão/Bambu Eventos]</i>
+    <i>Desenvolvido com ❤️ por Marcos Leão/Bambu Eventos</i>
   </p>
   <p>
     <a href="https://github.com/seu-usuario">GitHub</a> •
