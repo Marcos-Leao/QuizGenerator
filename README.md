@@ -11,14 +11,14 @@
   <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
   <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
   <br>
-
+  <img src="Logo-BE-ES.png" width="500" /><img src="marcosleao-132x48.png" width="200" />
 </div>
 
 <p align="center">
   <i>Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!</i>
 </p>
 
-<img src="Logo-BE-ES.png" width="300" /><img src="marcosleao-132x48.png" width="100" />
+
 
 ## 📋 Índice
 
