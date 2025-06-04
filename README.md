@@ -220,9 +220,14 @@ Para cada pergunta, forneça:
   - Limitar o número de requisições por IP
   - Utilizar HTTPS para todas as comunicações
   - Validar e sanitizar todas as entradas de usuário
+ 
+## 🙋 Segurança de conteúdo retornado
+
+- O código inclui filtros...
 
 ## 🔮 Próximos Passos
 
+- [ ] Implementar Google Search
 - [ ] Implementar sistema de pontuação
 - [ ] Adicionar temporizador para as perguntas
 - [ ] Salvar histórico de quizzes gerados
