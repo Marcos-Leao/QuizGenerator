@@ -45,6 +45,15 @@ O **Quiz Game com Google Gemini API** é uma aplicação web interativa que util
 - ⚡ **Processamento assíncrono**: Utiliza AJAX para uma experiência de usuário fluida
 - 🛡️ **Tratamento robusto de erros**: Validação em todos os níveis da aplicação
 
+## 🙋 Segurança de conteúdo retornado
+
+- O código inclui filtros que previnem o retorno de conteúdo que signifiquem dano ou ofença em 5 categorias:
+  - ** Discurso de ódio **: Comentários negativos ou nocivos voltados à identidade e/ou atributos protegidos.
+  - ** Assédio **: Comentários ameaçadores, intimidadores, abusivos ou violentos direcionados a outra pessoa.
+  - ** Sexualmente explícito **: Contém referências a atos sexuais ou outro conteúdo sexual.
+  - ** Conteúdo perigoso **: Promove, facilita ou incentiva atos nocivos.
+  - ** Integridade cívica **: Conteúdo que pode ser usado para prejudicar a integridade cívica, con assuntos sobre eleições, políticas públicas, pessoas públicas, etc.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend**:
@@ -221,10 +230,6 @@ Para cada pergunta, forneça:
   - Utilizar HTTPS para todas as comunicações
   - Validar e sanitizar todas as entradas de usuário
  
-## 🙋 Segurança de conteúdo retornado
-
-- O código inclui filtros...
-
 ## 🔮 Próximos Passos
 
 - [ ] Implementar Google Search
