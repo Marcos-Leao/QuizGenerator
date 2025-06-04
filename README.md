@@ -15,8 +15,7 @@
 </div>
   <br>
 
-### Um jogo de quiz interativo que utiliza a API Gemini do Google 
-### para gerar perguntas e respostas sobre qualquer assunto!
+# Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!
 
 <br>
 
