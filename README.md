@@ -1,6 +1,8 @@
 # 🎮 Quiz Game com Gemini API
 
 <div align="center">
+  <img src="/Logo-BE-ES.png" width="440" /><img src="/leao-marcosleao.svg" width="260" />
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -10,10 +12,7 @@
   <img src="https://img.shields.io/badge/status-pronto%20para%20uso-brightgreen" alt="Status: Pronto para uso">
   <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
   <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
-  <br>
-  <img src="/Logo-BE-ES.png" width="440" /><img src="/leao-marcosleao.svg" width="260" />
 </div>
-  
   <br>
 
 ## Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!
