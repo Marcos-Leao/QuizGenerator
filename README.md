@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <p style="font-size: 24px">Um jogo de quiz interativo que utiliza a API Gemini do Google</p><br>
+  <i style="font-size: 44px">Um jogo de quiz interativo que utiliza a API Gemini do Google</i><br>
   <i>Para gerar perguntas e respostas sobre qualquer assunto!</i>
 </p>
 
