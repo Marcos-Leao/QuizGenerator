@@ -13,11 +13,13 @@
   <br>
 
 </div>
-![Logo da Minha Empresa](/Logo-BE-ES.png)
+
 <p align="center">
   <i>Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!</i>
 </p>
 
+
+![Logo da Minha Empresa](/Logo-BE-ES.png)
 ## 📋 Índice
 
 - [📝 Descrição](#-descrição).
