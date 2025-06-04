@@ -20,7 +20,7 @@
 
 - [📝 Descrição](#-descrição).
 - [✨ Funcionalidades](#-funcionalidades).
-- [🙋 Segurança de conteúdo retornado] (#-Segurança de conteúdo retornado).
+- [🙋 Segurança de conteúdo retornado](#-Segurança de conteúdo retornado).
 - [🛠️ Tecnologias Utilizadas](#-Tecnologias Utilizadas).
 - [✨ Demonstração](#-demonstração).
 - [🚀 Recursos](#-recursos).
