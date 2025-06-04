@@ -17,9 +17,11 @@
 <p align="center">
   <i>Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!</i>
 </p>
+<picture>
+  <source srcset="Logo-BE-ES.png">
+  <source srcset="leao-marcosleao.svg">
+</picture>
 
-
-![Logomarca da Bambu Eventos](/Logo-BE-ES.png) ![Minha Logo](/leao-marcosleao.svg) 
 ## 📋 Índice
 
 - [📝 Descrição](#-descrição).
