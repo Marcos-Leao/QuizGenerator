@@ -57,38 +57,6 @@ O **Quiz Game com Google Gemini API** é uma aplicação web interativa que util
   - **JavaScript**: Manipulação do DOM e processamento assíncrono
   - **Design Responsivo**: Layout adaptável a diferentes tamanhos de tela
 
-
-
-
-## ✨ Demonstração
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Formulário Inicial</strong></td>
-      <td><strong>Visualização PHP</strong></td>
-      <td><strong>Visualização JavaScript</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <i>Formulário para inserir o assunto do quiz</i>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <i>Exibição das perguntas via PHP</i>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <i>Exibição interativa via JavaScript</i>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🚀 Recursos
 
 - ✅ **Geração Dinâmica de Quiz**: Crie quizzes sobre qualquer assunto instantaneamente
