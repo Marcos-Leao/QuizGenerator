@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="/Logo-BE-ES.png" width="440" /><img src="/leao-marcosleao.svg" width="260" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
