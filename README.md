@@ -13,9 +13,9 @@
   <br>
   <img src="/Logo-BE-ES.png" width="440" /><img src="/leao-marcosleao.svg" width="260" />
 
-<div style="font-size: 30px">
+<span style="font-size: 30px">
   Um jogo de quiz interativo que utiliza a API Gemini do Google<br>
-</div>
+</span>
 <p style="font-size: 30px">
   Para gerar perguntas e respostas sobre qualquer assunto!<br>
 </p>
