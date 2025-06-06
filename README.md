@@ -50,7 +50,8 @@ O principal nome associado a esse método é **Sócrates**, o filósofo grego. E
 
 Jesus, o fundador do Cristianismo, também usou à exaustão este método. Perguntava a seus interlocutores não para obter informações, mas para provocar a reflexão. Por exemplo:
 
-1. 📖 Mateus 16:13-15 - Quem dizem os homens que eu sou? E vós, quem dizeis que eu sou?
+1. 📖 Mateus 16:13 - Quem dizem os homens que eu sou?
+1. 📖 Mateus 16:15 - E vós, quem dizeis que eu sou?
 1. 📖 Lucas 10:25-26 - O que está escrito na Lei? Como lês?
 1. 📖 Lucas 15:4 - Qual de vós...?
 2. 📖 Mateus 22:20-21 - De quem é esta imagem e inscrição?
@@ -60,6 +61,8 @@ Jesus, o fundador do Cristianismo, também usou à exaustão este método. Pergu
 6. 📖 João 6:67 - Quereis vós também retirar-vos?
 7. 📖 Marcos 10:36 - Que quereis que eu vos faça?
 8. 📖 João 21:17 - Simão, filho de João, tu me amas?
+
+Portanto, o método de ensinar/aprender usando perguntas e respostas é milenarmente testado e usado pela humanidade.
 
 ## 🤔 Nome e Logomarca
 
