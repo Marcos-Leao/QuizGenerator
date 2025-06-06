@@ -59,6 +59,7 @@ Jesus, o fundador do Cristianismo, também usou à exaustão este método. Pergu
 5. 📖 Lucas 6:9 - Eu vos pergunto: É lícito no sábado fazer o bem ou fazer o mal? Salvar a vida ou destruí-la?
 6. 📖 João 6:67 - Quereis vós também retirar-vos?
 7. 📖 Marcos 10:36 - Que quereis que eu vos faça?
+8. 📖 João 21:17 - Simão, filho de João, tu me amas?
 
 ## 🤔 Nome e Logomarca
 
