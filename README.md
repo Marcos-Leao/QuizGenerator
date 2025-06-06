@@ -42,6 +42,12 @@
 
 O **Quiz Game com Google Gemini API** é uma aplicação web interativa que utiliza a poderosa API Gemini do Google para gerar quizzes personalizados sobre qualquer assunto escolhido pelo usuário. Este projeto demonstra a integração entre tecnologias web (PHP, JavaScript, HTML/CSS) e inteligência artificial para criar uma experiência de aprendizado dinâmica e envolvente.
 
+A metodologia didática de **ensinar e aprender por meio de perguntas e respostas** é uma das mais antigas e eficazes formas de desenvolver o pensamento crítico, a compreensão profunda e o envolvimento ativo no processo de aprendizagem. Essa prática é comumente chamada de **método socrático**.
+
+Tem origem por volta de 400 anos a.C.
+
+O principal nome associado a esse método é **Sócrates**, o filósofo grego. Ele não deixou escritos próprios, mas seus discípulos — especialmente **Platão** — registraram seus diálogos. Sócrates acreditava que o verdadeiro conhecimento surgia do questionamento contínuo. Em vez de transmitir conteúdos prontos, ele fazia perguntas provocadoras, que levavam o interlocutor a refletir, examinar crenças e chegar a conclusões mais sólidas por si mesmo.
+
 ## 🤔 Nome e Logomarca
 
 Adotei o nome QuizIA, um nome quase óbvio para um App de Quiz que usa Inteligência Artificial.
