@@ -22,6 +22,7 @@
 ## 📋 Índice
 
 - [📝 Descrição](#-descrição).
+- [🤔 Nome e Logomarca](#-nome-e-logomarca).
 - [✨ Funcionalidades](#-funcionalidades).
 - [🙋 Segurança de conteúdo retornado](#-seguranca-de-conteudo-retornado).
 - [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas).
@@ -41,13 +42,13 @@
 
 O **Quiz Game com Google Gemini API** é uma aplicação web interativa que utiliza a poderosa API Gemini do Google para gerar quizzes personalizados sobre qualquer assunto escolhido pelo usuário. Este projeto demonstra a integração entre tecnologias web (PHP, JavaScript, HTML/CSS) e inteligência artificial para criar uma experiência de aprendizado dinâmica e envolvente.
 
-## 🤔Nome e Logomarca
+## 🤔 Nome e Logomarca
 
 Adotei o nome QuizIA, um nome quase óbvio para um App de Quiz que usa Inteligência Artificial.
 
-A logomarca traz um toque lúdico, como que desenhados à mão, com um suave efeito de emboss que dá uma pequena profundidade aos eçementos gráficos. As cores básicas são as mesmas da logomarca do **Espaço Sociocultural Bambu Eventos**.
+A logomarca traz um toque lúdico, como que desenhados à mão, com um suave efeito de emboss que dá uma pequena profundidade aos eçementos gráficos. As cores básicas combinam com as cores da logomarca do **Espaço Sociocultural Bambu Eventos**.
 
-  <img src="/Logo-BE-ES.png" width="440" /><img src="/QuizIA-LOGO.png" width="160" />
+<img src="/QuizIA-LOGO.png" width="160" />
 
 ## ✨ Funcionalidades
 
