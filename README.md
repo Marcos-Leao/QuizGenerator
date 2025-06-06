@@ -52,7 +52,13 @@ Jesus, o fundador do Cristianismo, também usou à exaustão este método. Pergu
 
 1. 📖 Mateus 16:13-15 - Quem dizem os homens que eu sou? E vós, quem dizeis que eu sou?
 1. 📖 Lucas 10:25-26 - O que está escrito na Lei? Como lês?
-1. 📖 Lucas 15:4 - “Qual de vós...?
+1. 📖 Lucas 15:4 - Qual de vós...?
+2. 📖 Mateus 22:20-21 - De quem é esta imagem e inscrição?
+3. 📖 Lucas 10:36 - Qual destes três te parece ter sido o próximo...?
+4. 📖 Mateus 5:46 - Se amais os que vos amam, que recompensa tereis? Não fazem os publicanos também o mesmo?
+5. 📖 Lucas 6:9 - Eu vos pergunto: É lícito no sábado fazer o bem ou fazer o mal? Salvar a vida ou destruí-la?
+6. 📖 João 6:67 - Quereis vós também retirar-vos?
+7. 📖 Marcos 10:36 - Que quereis que eu vos faça?
 
 ## 🤔 Nome e Logomarca
 
