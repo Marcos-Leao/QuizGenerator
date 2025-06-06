@@ -46,7 +46,7 @@ O **Quiz Game com Google Gemini API** é uma aplicação web interativa que util
 
 Adotei o nome QuizIA, um nome quase óbvio para um App de Quiz que usa Inteligência Artificial.
 
-A logomarca traz um toque lúdico, como que desenhados à mão, com um suave efeito de emboss que dá uma pequena profundidade aos eçementos gráficos. As cores básicas combinam com as cores da logomarca do **Espaço Sociocultural Bambu Eventos**.
+A logomarca traz um toque lúdico, como que desenhados à mão, com um suave efeito de emboss que dá uma pequena profundidade aos elementos gráficos. As cores combinam com as cores da logomarca do **Espaço Sociocultural Bambu Eventos**.
 
 <img src="/QuizIA-LOGO.png" width="160" />
 
