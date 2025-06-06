@@ -1,7 +1,7 @@
 # 🎮 Quiz Game com Gemini API
 
 <div align="center">
-  <img src="/Logo-BE-ES.png" width="440" />&nbsp;&nbsp;&nbsp;<img src="/leao-marcosleao.svg" width="260" />
+  <img src="/Logo-BE-ES.png" width="440" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/leao-marcosleao.svg" width="260" />
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
