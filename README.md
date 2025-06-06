@@ -96,8 +96,9 @@ Portanto, qualquer assunto pesquisado na página, não retornará qualquer ofen�
   - **PHP**: Processamento do lado do servidor e integração com Python
 
 - **Frontend**:
-  - **HTML5/CSS3**: Estrutura e estilização da interface
-  - **JavaScript**: Manipulação do DOM e processamento assíncrono
+  - **HTML5**: Estrutura da interface
+  - **CSS3**: Estilização da interface
+  - **JavaScript**: Manipulação do DOM e processamento assíncrono, e lógica da aplicação
   - **Design Responsivo**: Layout adaptável a diferentes tamanhos de tela
 
 ## 🚀 Recursos
