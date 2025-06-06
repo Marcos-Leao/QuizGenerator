@@ -48,6 +48,12 @@ Tem origem por volta de 400 anos a.C.
 
 O principal nome associado a esse método é **Sócrates**, o filósofo grego. Ele não deixou escritos próprios, mas seus discípulos — especialmente **Platão** — registraram seus diálogos. Sócrates acreditava que o verdadeiro conhecimento surgia do questionamento contínuo. Em vez de transmitir conteúdos prontos, ele fazia perguntas provocadoras, que levavam o interlocutor a refletir, examinar crenças e chegar a conclusões mais sólidas por si mesmo.
 
+Jesus, o fundador do Cristianismo, também usou à exaustão este método. Perguntava a seus interlocutores não para obter informações, mas para provocar a reflexão. Por exemplo:
+
+1- 📖 Mateus 16:13-15 - Quem dizem os homens que eu sou? E vós, quem dizeis que eu sou?
+1- 📖 Lucas 10:25-26 - O que está escrito na Lei? Como lês?
+1- 📖 Lucas 15:4 - “Qual de vós...?
+
 ## 🤔 Nome e Logomarca
 
 Adotei o nome QuizIA, um nome quase óbvio para um App de Quiz que usa Inteligência Artificial.
