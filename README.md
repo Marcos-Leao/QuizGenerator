@@ -50,9 +50,9 @@ O principal nome associado a esse método é **Sócrates**, o filósofo grego. E
 
 Jesus, o fundador do Cristianismo, também usou à exaustão este método. Perguntava a seus interlocutores não para obter informações, mas para provocar a reflexão. Por exemplo:
 
-1- 📖 Mateus 16:13-15 - Quem dizem os homens que eu sou? E vós, quem dizeis que eu sou?
-1- 📖 Lucas 10:25-26 - O que está escrito na Lei? Como lês?
-1- 📖 Lucas 15:4 - “Qual de vós...?
+1 - 📖 Mateus 16:13-15 - Quem dizem os homens que eu sou? E vós, quem dizeis que eu sou?
+1 - 📖 Lucas 10:25-26 - O que está escrito na Lei? Como lês?
+1 - 📖 Lucas 15:4 - “Qual de vós...?
 
 ## 🤔 Nome e Logomarca
 
