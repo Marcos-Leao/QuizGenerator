@@ -40,7 +40,7 @@
 
 ## 📝 Descrição
 
-O **Quiz Game com Google Gemini API** é uma aplicação web interativa que utiliza a poderosa API Gemini do Google para gerar quizzes personalizados sobre qualquer assunto escolhido pelo usuário. Este projeto demonstra a integração entre tecnologias web (PHP, JavaScript, HTML/CSS) e inteligência artificial para criar uma experiência de aprendizado dinâmica e envolvente.
+O **Quiz Game com Google Gemini API** é uma aplicação web interativa que utiliza a poderosa API Gemini do Google para gerar quizzes personalizados sobre qualquer assunto escolhido pelo usuário. Este projeto demonstra a integração entre tecnologias web (PHP, JavaScript, Python, HTML/CSS) e inteligência artificial para criar uma experiência de aprendizado dinâmica e envolvente.
 
 A metodologia didática de **ensinar e aprender por meio de perguntas e respostas** é uma das mais antigas e eficazes formas de desenvolver o pensamento crítico, a compreensão profunda e o envolvimento ativo no processo de aprendizagem. Essa prática é comumente chamada de **método socrático**.
 
