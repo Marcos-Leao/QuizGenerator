@@ -279,6 +279,43 @@ Para cada pergunta, forneça:
 - [ ] Criar sistema de ranking
 - [ ] Exportar quiz para PDF ou compartilhar nas redes sociais
 
+## 🤝 Contribuição
+
+Contribuições são sempre bem-vindas! Para contribuir:
+
+1. **Fork** o projeto
+2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
+3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um **Pull Request**
+
+### 📝 Guidelines de Contribuição
+- Mantenha o código limpo e bem comentado
+- Teste suas mudanças antes de enviar
+- Atualize a documentação se necessário
+- Siga o padrão de código existente
+
+### 🐛 Reportar Bugs
+Encontrou um bug? Abra uma [issue](https://github.com/seuusuario/quiz-game-gemini/issues) com:
+- Descrição detalhada do problema
+- Passos para reproduzir
+- Ambiente (OS, PHP, Python versions)
+- Screenshots (se aplicável)
+
+### 💡 Sugerir Melhorias
+Tem uma ideia? Abra uma [issue](https://github.com/seuusuario/quiz-game-gemini/issues) com:
+- Descrição da melhoria
+- Casos de uso
+- Mockups (se aplicável)
+
+
+
+
+
+
+
+
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para detalhes.
