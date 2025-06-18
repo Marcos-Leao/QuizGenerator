@@ -21,12 +21,12 @@
 
 ## 📋 Índice
 
-- [📝 Descrição](#-descrição).
-- [🤔 Nome e Logomarca](#-nome-e-logomarca).
-- [✨ Funcionalidades](#-funcionalidades).
-- [🙋 Segurança de conteúdo retornado](#-seguranca-de-conteudo-retornado).
-- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas).
-- [🚀 Recursos](#-recursos).
+- [📝Descrição](#-descrição).
+- [🤔Nome e Logomarca](#-nome-e-logomarca).
+- [✨Funcionalidades](#-funcionalidades).
+- [🙋Segurança de conteúdo retornado](#-seguranca-de-conteudo-retornado).
+- [🛠️Tecnologias Utilizadas](#-tecnologias-utilizadas).
+- [🚀Recursos](#-recursos).
 - [🔧 Instalação](#-instalação).
 - [⚙️ Configuração](#️-configuração).
 - [📝 Como Usar](#-como-usar).
