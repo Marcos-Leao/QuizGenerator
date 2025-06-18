@@ -15,7 +15,7 @@
 </div>
   <br>
 
-# Um jogo de quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!
+# Um jogo de Quiz interativo que utiliza a API Gemini do Google para gerar perguntas e respostas sobre qualquer assunto!
 
 <br>
 
@@ -93,12 +93,12 @@ Portanto, qualquer assunto pesquisado na página, não retornará qualquer ofen�
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Backend**:
+- **Back-end**:
   - **Python 3.x**: Linguagem principal para interação com a API Gemini
   - **Google Gen AI SDK**: Biblioteca oficial para acesso à API Gemini
   - **PHP**: Processamento do lado do servidor e integração com Python
 
-- **Frontend**:
+- **Front-end**:
   - **HTML5**: Estrutura da interface
   - **CSS3**: Estilização da interface
   - **JavaScript**: Manipulação do DOM e processamento assíncrono, e lógica da aplicação
@@ -110,7 +110,8 @@ Portanto, qualquer assunto pesquisado na página, não retornará qualquer ofen�
 - ✅ **Integração com IA**: Utiliza a API Gemini do Google para gerar conteúdo de alta qualidade
 - ✅ **Design Responsivo**: Interface amigável para dispositivos móveis e desktop
 - ✅ **Respostas Embaralhadas**: Ordem aleatória das alternativas para cada pergunta
-- ✅ **Explicações Detalhadas**: Cada pergunta inclui uma explicação da resposta correta
+- ✅ **Explicações Detalhadas**: Cada pergunta inclui uma explicação da resposta correta, reforçando o aprendizado
+- ✅ **Histórico de Quiz**: Mostra o histórico dos últimos 10 quizzes, mostrando o assunto explorado e os pontos alcançados
 
 ## 🔧 Instalação
 
@@ -271,12 +272,12 @@ Para cada pergunta, forneça:
 ## 🔮 Próximos Passos
 
 - [ ] Implementar Google Search
-- [ ] Implementar sistema de pontuação
-- [ ] Adicionar temporizador para as perguntas
-- [ ] Salvar histórico de quizzes gerados
-- [ ] Implementar categorias pré-definidas
+- [ ] Implementar upload de PDFs como fonte para perguntas
 - [ ] Adicionar modo multijogador
+- [ ] Salvar histórico e placar de quizzes gerados entre vários jogadores (Atualmente salva histórico individual, apenas)
+- [ ] Implementar categorias pré-definidas
 - [ ] Criar sistema de ranking
+- [ ] Adicionar nível de dificuldade do Quiz (fundamental, médio, graduação, pós-graduação, doutorado, pós-doutorado (mestre jedi), especialista (oráculo supremo)
 - [ ] Exportar quiz para PDF ou compartilhar nas redes sociais
 
 ## 🤝 Contribuição
@@ -327,8 +328,8 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LIC
     <i>Desenvolvido com ❤️ por Marcos Leão/Bambu Eventos</i>
   </p>
   <p>
-    <a href="https://github.com/seu-usuario">GitHub</a> •
-    <a href="https://seu-site.com">Website</a> •
-    <a href="mailto:seu-email@exemplo.com">Contato</a>
+    <a href="https://github.com/Marcos-Leao">GitHub</a> •
+    <a href="https://pix1234.com.br/">Website</a> •
+    <a href="mailto:leao.marcos@gmail.com">Contato</a>
   </p>
 </div>
