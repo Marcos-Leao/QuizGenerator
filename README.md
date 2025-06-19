@@ -61,6 +61,7 @@ Jesus, o fundador do Cristianismo, também usou à exaustão este método. Pergu
 6. 📖 João 6:67 - Quereis vós também retirar-vos?
 7. 📖 Marcos 10:36 - Que quereis que eu vos faça?
 8. 📖 João 21:17 - Simão, filho de João, tu me amas?
+8. 📖 João 2:4 - Mas Jesus lhe disse: Mulher, que tenho eu contigo?
 
 Portanto, o método de ensinar/aprender usando perguntas e respostas é milenarmente testado e usado pela humanidade.
 
